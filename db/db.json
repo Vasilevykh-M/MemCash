@@ -1,0 +1,7 @@
+[
+  {
+    "pathSchema": "db/table.json",
+    "pathData": "db/table",
+    "name": "table1"
+  }
+]

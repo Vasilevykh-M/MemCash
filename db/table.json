@@ -1,0 +1,12 @@
+[
+  {
+    "name": "a",
+    "id": 0,
+    "type": "string"
+  },
+  {
+    "name": "b",
+    "id": 1,
+    "type": "string"
+  }
+]
